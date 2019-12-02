@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 6e43a4af552505d418d8e8715eb5c9e9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Banner_01
+    100004: Banner_02
+    100006: Banner_03
+    100008: Banner_04
+    100010: Banner_05
+    100012: Banner_06
+    100014: Banner_07
+    100016: Banner_08
+    100018: Banner_09
+    100020: Banner_10
+    100022: Building
+    100024: Gate_01
+    100026: Gate_02
+    400000: //RootNode
+    400002: Banner_01
+    400004: Banner_02
+    400006: Banner_03
+    400008: Banner_04
+    400010: Banner_05
+    400012: Banner_06
+    400014: Banner_07
+    400016: Banner_08
+    400018: Banner_09
+    400020: Banner_10
+    400022: Building
+    400024: Gate_01
+    400026: Gate_02
+    2100000: lambert1
+    2100002: banner_01
+    2100004: banner_04
+    2100006: banner_02
+    2100008: banner_03
+    2100010: glass_glill_mat
+    2100012: black_glass_mat_01
+    2100014: glass_mat_02
+    2100016: sunsett_mat
+    2100018: AC_mat_white
+    2100020: AC_mat_black
+    2100022: building_blue_mat_01
+    2300000: Banner_01
+    2300002: Banner_02
+    2300004: Banner_03
+    2300006: Banner_04
+    2300008: Banner_05
+    2300010: Banner_06
+    2300012: Banner_07
+    2300014: Banner_08
+    2300016: Banner_09
+    2300018: Banner_10
+    2300020: Building
+    2300022: Gate_01
+    2300024: Gate_02
+    3300000: Banner_01
+    3300002: Banner_02
+    3300004: Banner_03
+    3300006: Banner_04
+    3300008: Banner_05
+    3300010: Banner_06
+    3300012: Banner_07
+    3300014: Banner_08
+    3300016: Banner_09
+    3300018: Banner_10
+    3300020: Building
+    3300022: Gate_01
+    3300024: Gate_02
+    4300000: Banner_10
+    4300002: Banner_09
+    4300004: Banner_08
+    4300006: Banner_07
+    4300008: Banner_06
+    4300010: Banner_05
+    4300012: Banner_04
+    4300014: Banner_03
+    4300016: Banner_02
+    4300018: Banner_01
+    4300020: Gate_02
+    4300022: Gate_01
+    4300024: Building
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
